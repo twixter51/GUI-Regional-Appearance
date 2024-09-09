@@ -2,7 +2,7 @@
 
 any GUI would do, make sure to change the items you want to tween are edited in GUI Methods file.
 
-(This is for LUAU)
+(For Roblox's Game Engine)
 
 
 EX:
